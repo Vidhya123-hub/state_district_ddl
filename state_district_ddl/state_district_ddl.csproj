@@ -154,6 +154,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\Class.cs" />
     <Compile Include="Models\DDLCls.cs" />
     <Compile Include="Models\StateDistrictDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
